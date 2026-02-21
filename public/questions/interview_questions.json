@@ -1,0 +1,230 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "fieldId": 1,
+      "fieldName": "Software Development",
+      "text": "What are the SOLID principles in object-oriented programming?",
+      "audioUrl": "/audio/software_dev_q1.mp3",
+      "duration": 120,
+      "expectedKeywords": ["Single Responsibility", "Open Closed", "Liskov", "Interface Segregation", "Dependency Inversion"]
+    },
+    {
+      "id": "q2",
+      "fieldId": 1,
+      "fieldName": "Software Development",
+      "text": "Explain the difference between synchronous and asynchronous programming.",
+      "audioUrl": "/audio/software_dev_q2.mp3",
+      "duration": 120,
+      "expectedKeywords": ["blocking", "non-blocking", "callbacks", "promises", "async-await"]
+    },
+    {
+      "id": "q3",
+      "fieldId": 1,
+      "fieldName": "Software Development",
+      "text": "What is a RESTful API and what are its key principles?",
+      "audioUrl": "/audio/software_dev_q3.mp3",
+      "duration": 120,
+      "expectedKeywords": ["REST", "HTTP", "stateless", "resources", "verbs", "GET", "POST", "PUT", "DELETE"]
+    },
+    {
+      "id": "q4",
+      "fieldId": 1,
+      "fieldName": "Software Development",
+      "text": "What are the benefits and drawbacks of microservices architecture?",
+      "audioUrl": "/audio/software_dev_q4.mp3",
+      "duration": 120,
+      "expectedKeywords": ["scalability", "flexibility", "complexity", "communication", "testing"]
+    },
+    {
+      "id": "q5",
+      "fieldId": 1,
+      "fieldName": "Software Development",
+      "text": "What is version control and why is it important?",
+      "audioUrl": "/audio/software_dev_q5.mp3",
+      "duration": 120,
+      "expectedKeywords": ["git", "branching", "merging", "history", "collaboration", "conflict"]
+    },
+    {
+      "id": "q6",
+      "fieldId": 2,
+      "fieldName": "Data Science",
+      "text": "What is the difference between supervised and unsupervised learning?",
+      "audioUrl": "/audio/data_science_q1.mp3",
+      "duration": 120,
+      "expectedKeywords": ["labeled data", "unlabeled data", "regression", "classification", "clustering"]
+    },
+    {
+      "id": "q7",
+      "fieldId": 2,
+      "fieldName": "Data Science",
+      "text": "What is overfitting and how can we prevent it?",
+      "audioUrl": "/audio/data_science_q2.mp3",
+      "duration": 120,
+      "expectedKeywords": ["overfitting", "regularization", "cross-validation", "dropout", "early stopping"]
+    },
+    {
+      "id": "q8",
+      "fieldId": 2,
+      "fieldName": "Data Science",
+      "text": "Explain the steps in a typical data science project.",
+      "audioUrl": "/audio/data_science_q3.mp3",
+      "duration": 120,
+      "expectedKeywords": ["problem definition", "data collection", "cleaning", "analysis", "modeling", "evaluation", "deployment"]
+    },
+    {
+      "id": "q9",
+      "fieldId": 2,
+      "fieldName": "Data Science",
+      "text": "What are the differences between correlation and causation?",
+      "audioUrl": "/audio/data_science_q4.mp3",
+      "duration": 120,
+      "expectedKeywords": ["correlation", "causation", "confounding", "bias", "statistical"]
+    },
+    {
+      "id": "q10",
+      "fieldId": 2,
+      "fieldName": "Data Science",
+      "text": "How do you handle missing data in a dataset?",
+      "audioUrl": "/audio/data_science_q5.mp3",
+      "duration": 120,
+      "expectedKeywords": ["imputation", "deletion", "mean", "median", "mode", "prediction"]
+    },
+    {
+      "id": "q11",
+      "fieldId": 3,
+      "fieldName": "DevOps",
+      "text": "What is CI/CD and why is it important?",
+      "audioUrl": "/audio/devops_q1.mp3",
+      "duration": 120,
+      "expectedKeywords": ["Continuous Integration", "Continuous Deployment", "automation", "testing", "deployment"]
+    },
+    {
+      "id": "q12",
+      "fieldId": 3,
+      "fieldName": "DevOps",
+      "text": "What is containerization and why use Docker?",
+      "audioUrl": "/audio/devops_q2.mp3",
+      "duration": 120,
+      "expectedKeywords": ["Docker", "container", "image", "isolation", "scalability", "portability"]
+    },
+    {
+      "id": "q13",
+      "fieldId": 3,
+      "fieldName": "DevOps",
+      "text": "Explain the concept of Infrastructure as Code (IaC).",
+      "audioUrl": "/audio/devops_q3.mp3",
+      "duration": 120,
+      "expectedKeywords": ["IaC", "Terraform", "Ansible", "CloudFormation", "automation", "versioning"]
+    },
+    {
+      "id": "q14",
+      "fieldId": 3,
+      "fieldName": "DevOps",
+      "text": "What are the key differences between Git workflow strategies?",
+      "audioUrl": "/audio/devops_q4.mp3",
+      "duration": 120,
+      "expectedKeywords": ["Git Flow", "GitHub Flow", "trunk-based", "branching strategy", "merging"]
+    },
+    {
+      "id": "q15",
+      "fieldId": 3,
+      "fieldName": "DevOps",
+      "text": "How do you monitor and log applications in production?",
+      "audioUrl": "/audio/devops_q5.mp3",
+      "duration": 120,
+      "expectedKeywords": ["monitoring", "logging", "ELK", "Prometheus", "Grafana", "alerts"]
+    },
+    {
+      "id": "q16",
+      "fieldId": 4,
+      "fieldName": "Machine Learning",
+      "text": "What is the difference between precision and recall?",
+      "audioUrl": "/audio/machine_learning_q1.mp3",
+      "duration": 120,
+      "expectedKeywords": ["precision", "recall", "F1-score", "confusion matrix", "accuracy"]
+    },
+    {
+      "id": "q17",
+      "fieldId": 4,
+      "fieldName": "Machine Learning",
+      "text": "Explain how neural networks work and what are layers?",
+      "audioUrl": "/audio/machine_learning_q2.mp3",
+      "duration": 120,
+      "expectedKeywords": ["neural networks", "layers", "neurons", "weights", "activation", "backpropagation"]
+    },
+    {
+      "id": "q18",
+      "fieldId": 4,
+      "fieldName": "Machine Learning",
+      "text": "What is transfer learning and when should we use it?",
+      "audioUrl": "/audio/machine_learning_q3.mp3",
+      "duration": 120,
+      "expectedKeywords": ["transfer learning", "pre-trained", "fine-tuning", "feature extraction", "weights"]
+    },
+    {
+      "id": "q19",
+      "fieldId": 4,
+      "fieldName": "Machine Learning",
+      "text": "How do decision trees work and what are their advantages?",
+      "audioUrl": "/audio/machine_learning_q4.mp3",
+      "duration": 120,
+      "expectedKeywords": ["decision tree", "entropy", "information gain", "pruning", "interpretable"]
+    },
+    {
+      "id": "q20",
+      "fieldId": 4,
+      "fieldName": "Machine Learning",
+      "text": "What is hyperparameter tuning and why is it important?",
+      "audioUrl": "/audio/machine_learning_q5.mp3",
+      "duration": 120,
+      "expectedKeywords": ["hyperparameter", "tuning", "grid search", "random search", "cross-validation"]
+    },
+    {
+      "id": "q21",
+      "fieldId": 5,
+      "fieldName": "Cloud Architecture",
+      "text": "What is cloud computing and what are its service models?",
+      "audioUrl": "/audio/cloud_architecture_q1.mp3",
+      "duration": 120,
+      "expectedKeywords": ["SaaS", "PaaS", "IaaS", "scalability", "flexibility", "cost-effective"]
+    },
+    {
+      "id": "q22",
+      "fieldId": 5,
+      "fieldName": "Cloud Architecture",
+      "text": "Explain the difference between public, private, and hybrid clouds.",
+      "audioUrl": "/audio/cloud_architecture_q2.mp3",
+      "duration": 120,
+      "expectedKeywords": ["public cloud", "private cloud", "hybrid", "security", "compliance"]
+    },
+    {
+      "id": "q23",
+      "fieldId": 5,
+      "fieldName": "Cloud Architecture",
+      "text": "What are the best practices for designing scalable cloud architectures?",
+      "audioUrl": "/audio/cloud_architecture_q3.mp3",
+      "duration": 120,
+      "expectedKeywords": ["scalability", "load balancing", "auto-scaling", "database sharding", "caching"]
+    },
+    {
+      "id": "q24",
+      "fieldId": 5,
+      "fieldName": "Cloud Architecture",
+      "text": "How do you ensure security and compliance in cloud environments?",
+      "audioUrl": "/audio/cloud_architecture_q4.mp3",
+      "duration": 120,
+      "expectedKeywords": ["security", "compliance", "encryption", "IAM", "auditing", "GDPR"]
+    },
+    {
+      "id": "q25",
+      "fieldId": 5,
+      "fieldName": "Cloud Architecture",
+      "text": "What are the cost optimization strategies for cloud infrastructure?",
+      "audioUrl": "/audio/cloud_architecture_q5.mp3",
+      "duration": 120,
+      "expectedKeywords": ["cost optimization", "reserved instances", "spot instances", "auto-scaling", "monitoring"]
+    }
+  ]
+}
+
